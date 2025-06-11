@@ -1,0 +1,167 @@
+/* Radio Announcer's Club, Khulna - Static Website */
+
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>রেডিও এ্যানাউন্সার’স ক্লাব, খুলনা</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>রেডিও এ্যানাউন্সার’স ক্লাব, খুলনা</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About Us</a>
+      <a href="contact.html">Contact</a>
+      <a href="images.html">Images</a>
+      <a href="videos.html">Videos</a>
+      <a href="notice.html">Notice</a>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h3>ক্লাব পরিচিতি</h3>
+      <p>রেডিও এ্যানাউন্সার’স ক্লাব, খুলনা একটি অরাজনৈতিক ও স্বেচ্ছাসেবী সংগঠন, যা মূলত রেডিও উপস্থাপনা, কণ্ঠশিল্প, সংবাদ পাঠ, নাটক ও মিডিয়া-সংক্রান্ত কার্যক্রম নিয়ে কাজ করে। ক্লাবের সদস্যরা স্থানীয় ও জাতীয় পর্যায়ে সাংস্কৃতিক কর্মকাণ্ডে অংশগ্রহণ করে থাকেন।</p>
+      <p>আমাদের লক্ষ্য হলো তরুণ প্রজন্মকে রেডিও উপস্থাপনায় দক্ষ করে গড়ে তোলা এবং মিডিয়ার বিভিন্ন শাখায় তাদের আত্মপ্রকাশের সুযোগ সৃষ্টি করা। ক্লাবের পক্ষ থেকে নিয়মিত কর্মশালা, প্রশিক্ষণ ও অনুষ্ঠানের আয়োজন করা হয়।</p>
+    </section>
+
+    <h2>স্বাগতম!</h2>
+    <p>এই ওয়েবসাইটটি রেডিও এ্যানাউন্সার’স ক্লাব, খুলনা-এর অফিসিয়াল অনলাইন প্ল্যাটফর্ম।</p>
+
+    <section>
+      <h3>ক্লাব পরিচিতি</h3>
+      <p>রেডিও এ্যানাউন্সার’স ক্লাব, খুলনা একটি অরাজনৈতিক ও স্বেচ্ছাসেবী সংগঠন, যা মূলত রেডিও উপস্থাপনা, কণ্ঠশিল্প, সংবাদ পাঠ, নাটক ও মিডিয়া-সংক্রান্ত কার্যক্রম নিয়ে কাজ করে। ক্লাবের সদস্যরা স্থানীয় ও জাতীয় পর্যায়ে সাংস্কৃতিক কর্মকাণ্ডে অংশগ্রহণ করে থাকেন।</p>
+      <p>আমাদের লক্ষ্য হলো তরুণ প্রজন্মকে রেডিও উপস্থাপনায় দক্ষ করে গড়ে তোলা এবং মিডিয়ার বিভিন্ন শাখায় তাদের আত্মপ্রকাশের সুযোগ সৃষ্টি করা। ক্লাবের পক্ষ থেকে নিয়মিত কর্মশালা, প্রশিক্ষণ ও অনুষ্ঠানের আয়োজন করা হয়।</p>
+    </section>
+
+    <section>
+      <h3>ক্লাবের টেম্পলেট</h3>
+      <img src="template.jpg" alt="সংগঠনের টেম্পলেট" style="max-width: 90%; height: auto; border: 1px solid #ccc; padding: 10px; margin-top: 20px;">
+    </section>
+  </main>
+
+  <footer>
+    <p>© ২০২৫ রেডিও এ্যানাউন্সার’স ক্লাব, খুলনা</p>
+  </footer>
+</body>
+</html>
+
+<!-- about.html -->
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <title>About Us</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header><h1>About Us</h1></header>
+  <main><p>আমাদের সম্পর্কে তথ্য এখানে থাকবে।</p></main>
+  <footer><p>© ২০২৫ রেডিও এ্যানাউন্সার’স ক্লাব, খুলনা</p></footer>
+</body>
+</html>
+
+<!-- contact.html -->
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header><h1>Contact</h1></header>
+  <main><p>যোগাযোগের তথ্য এখানে থাকবে।</p></main>
+  <footer><p>© ২০২৫ রেডিও এ্যানাউন্সার’স ক্লাব, খুলনা</p></footer>
+</body>
+</html>
+
+<!-- images.html -->
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <title>Images</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header><h1>Image Gallery</h1></header>
+  <main><p>এখানে ছবি গ্যালারি থাকবে।</p></main>
+  <footer><p>© ২০২৫ রেডিও এ্যানাউন্সার’স ক্লাব, খুলনা</p></footer>
+</body>
+</html>
+
+<!-- videos.html -->
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <title>Videos</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header><h1>Video Gallery</h1></header>
+  <main><p>এখানে ভিডিও গ্যালারি থাকবে।</p></main>
+  <footer><p>© ২০২৫ রেডিও এ্যানাউন্সার’স ক্লাব, খুলনা</p></footer>
+</body>
+</html>
+
+<!-- notice.html -->
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <title>Notice</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header><h1>Notice Board</h1></header>
+  <main><p>এখানে নোটিশসমূহ প্রকাশিত হবে।</p></main>
+  <footer><p>© ২০২৫ রেডিও এ্যানাউন্সার’স ক্লাব, খুলনা</p></footer>
+</body>
+</html>
+
+/* style.css */
+
+body {
+  font-family: sans-serif;
+  background-color: #f9f9f9;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #004466;
+  color: white;
+  text-align: center;
+  padding: 1em 0;
+}
+
+nav a {
+  color: white;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  padding: 20px;
+  text-align: center;
+}
+
+footer {
+  background-color: #004466;
+  color: white;
+  text-align: center;
+  padding: 1em 0;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
